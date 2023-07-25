@@ -1,4 +1,4 @@
-# UrbanSoundClassification_GlobalAihub
+# UrbanSoundClassification
 This project aim to classify urban sound signals using convolutional neural network.
 # Creating Spectrogram
 In this section we first load the wav file and took their spectrogram and save them in the desired directory
